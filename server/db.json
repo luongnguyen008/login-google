@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "publicAddress": "0x497ea34034832629648A4fddd1D9Ea11A642d88C",
+      "nonce": 2232
+    },
+    {
+      "publicAddress": "0xf60FE208FC3d084B64b6b71790CC32b51dc09925",
+      "nonce": 9945
+    }
+  ]
+}
